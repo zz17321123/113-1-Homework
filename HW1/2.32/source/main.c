@@ -18,8 +18,8 @@ int main(void)
 
 	printf("\n");
 
-	printf("BMI 计: %.2f\n", BMI_result + 0.005); // ゴ ㄏノ BMI 计
-	
+	printf("BMI 计: %.2f\n", BMI_result); // ゴ ㄏノ BMI 计
+
 	// 耞 BMI 猵
 	if (BMI_result < 18.5)	  
 		// ㄏノ BMI < 18.5
