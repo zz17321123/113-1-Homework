@@ -4,27 +4,27 @@
 
 int main(void)
 {
-	printf("PPPPPPPPP\n");
-	printf("    P   P\n");
-	printf("    P   P\n");
-	printf("    P   P\n");
-	printf("     P P \n");
+	printf("kkkkkkkkk\n");
+	printf("    k    \n");
+	printf("   k K   \n");
+	printf("  k   K  \n");
+	printf("kk     Kk\n");
 
 	printf("\n");
 
-	printf("  JJ     \n");
-	printf(" J       \n");
-	printf("J        \n");
-	printf(" J       \n");
-	printf("  JJJJJJJ\n");
+	printf(" ooooooo \n");
+	printf("o       o\n");
+	printf("o       o\n");
+	printf("o       o\n");
+	printf(" ooooooo \n");
 
 	printf("\n");
 
-	printf("DDDDDDDDD\n");
-	printf("D       D\n");
-	printf("D       D\n");
-	printf(" D     D \n");
-	printf("  DDDDD  \n");
+	printf("MMMMMMMMM\n");
+	printf("       M \n");
+	printf("MMMMMMM  \n");
+	printf("       M \n");
+	printf("MMMMMMMMM\n");
 
 	system("pause");
 	return 0;
