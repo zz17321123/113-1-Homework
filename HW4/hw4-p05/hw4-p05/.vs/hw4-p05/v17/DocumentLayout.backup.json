@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW4\\hw4-p05\\hw4-p05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F387658-9BBD-45C4-8B77-36851AD54832}|hw4-p05\\hw4-p05.vcxproj|C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW4\\hw4-p05\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW4\\hw4-p05\\source\\main.c",
+              "RelativeDocumentMoniker": "..\\source\\main.c",
+              "ToolTip": "C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW4\\hw4-p05\\source\\main.c",
+              "RelativeToolTip": "..\\source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-07T23:29:44.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
