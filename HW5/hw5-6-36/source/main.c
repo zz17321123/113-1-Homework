@@ -1,10 +1,25 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+void stringReverse(const char* str) 
 {
-	printf("Hello World\n");
+    if (*str == '\0')
+        return;
 
-	system("pause");
-	return 0;
+    stringReverse(str + 1);
+    putchar(*str);
+}
+
+int main() 
+{
+    char str[100];
+
+    printf("Enter a string: ");
+    fgets(str, sizeof(str), stdin);
+
+    printf("Reversed string: ");
+    stringReverse(str);
+    printf("\n");
+
+    return 0;
 }
