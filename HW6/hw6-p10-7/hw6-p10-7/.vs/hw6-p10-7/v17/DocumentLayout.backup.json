@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW6\\hw6-p10-7\\hw6-p10-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3DD362-BB71-4D73-AAF8-F0666E193501}|hw6-p10-7\\hw6-p10-7.vcxproj|C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW6\\hw6-p10-7\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW6\\hw6-p10-7\\source\\main.c",
+              "RelativeDocumentMoniker": "..\\source\\main.c",
+              "ToolTip": "C:\\Users\\zz173\\Desktop\\GitHub_Repositories\\113-1-Homework\\HW6\\hw6-p10-7\\source\\main.c",
+              "RelativeToolTip": "..\\source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-30T03:00:09.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
